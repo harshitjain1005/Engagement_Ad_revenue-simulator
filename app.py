@@ -116,6 +116,7 @@ st.markdown("""
 # ─────────────────────────────────────────────────────────────────────────────
 
 
+
 ### PASTE BLOCK 1: METADATA ###
 METADATA = {"total_platform_inventory": 768495767.0, "midroll_platform_inventory": 445076969.0, "preroll_platform_inventory": 107168029.0, "midroll_share_of_total": 57.92, "preroll_share_of_total": 13.95, "coverage_total": 98.29, "coverage_midroll": 98.1, "coverage_preroll": 98.21, "high_pct_total": 36.8, "high_pct_midroll": 36.8, "high_pct_preroll": 36.8, "total_parents": 117, "total_cohorts_7dim": 3222}
 
